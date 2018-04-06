@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaTest", "TestFunction\LambdaTest.csproj", "{7DA43C87-9EA6-49CC-BA19-89C697277413}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGen", "ApiGen\ApiGen.csproj", "{DAB62266-8589-4263-930C-7F718FB910A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiContract", "ApiContract\ApiContract.csproj", "{56541018-CCE5-4306-831F-264E3F931AAA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cake.AWS.APIGateway", "Cake.AWS.APIGateway\Cake.AWS.APIGateway.csproj", "{B2671B00-05DF-4F6E-A5AD-7D804D841918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA43C87-9EA6-49CC-BA19-89C697277413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA43C87-9EA6-49CC-BA19-89C697277413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA43C87-9EA6-49CC-BA19-89C697277413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA43C87-9EA6-49CC-BA19-89C697277413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB62266-8589-4263-930C-7F718FB910A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB62266-8589-4263-930C-7F718FB910A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB62266-8589-4263-930C-7F718FB910A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB62266-8589-4263-930C-7F718FB910A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56541018-CCE5-4306-831F-264E3F931AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56541018-CCE5-4306-831F-264E3F931AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56541018-CCE5-4306-831F-264E3F931AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56541018-CCE5-4306-831F-264E3F931AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2671B00-05DF-4F6E-A5AD-7D804D841918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2671B00-05DF-4F6E-A5AD-7D804D841918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2671B00-05DF-4F6E-A5AD-7D804D841918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2671B00-05DF-4F6E-A5AD-7D804D841918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42BB66AE-C339-4ACA-A253-9E3139F225F8}
+	EndGlobalSection
+EndGlobal

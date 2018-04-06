@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ApiGen": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\aaaa.json"
+    }
+  }
+}
